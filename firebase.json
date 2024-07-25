@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "caffae-vibhav",
+          "appId": "1:26112207331:android:25210be5c37950081458d6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "caffae-vibhav",
+          "configurations": {
+            "android": "1:26112207331:android:25210be5c37950081458d6",
+            "ios": "1:26112207331:ios:84d07d19b8aa926f1458d6",
+            "macos": "1:26112207331:ios:84d07d19b8aa926f1458d6",
+            "web": "1:26112207331:web:a10e025465a6687c1458d6",
+            "windows": "1:26112207331:web:f9424be13ee75df61458d6"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "(firestore.rules)",
+    "indexes": "firestore.indexes.json"
+  }
+}

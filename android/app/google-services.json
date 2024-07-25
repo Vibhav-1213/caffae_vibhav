@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26112207331",
+    "project_id": "caffae-vibhav",
+    "storage_bucket": "caffae-vibhav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26112207331:android:25210be5c37950081458d6",
+        "android_client_info": {
+          "package_name": "com.example.caffae_vibhav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-B05J_hr7NGxY-IlHUlgrme9tWRmkpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
